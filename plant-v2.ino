@@ -4,7 +4,7 @@
  *  Version 0.2
  *  Microcontroller : Arduino Mini
  *  Date : 2013-12-24 .. 2013-12-30
- *  Author : Adam Mead - amead77 #at# gmail.com, plus some diddy bits from the examples
+ *  Author : me, plus some diddy bits from the examples
  *  Licence: Creative Commons Attribution http://creativecommons.org/licenses/by/4.0/
  *  Details
  *  
